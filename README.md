@@ -5,6 +5,13 @@ Build professionally formatted broadcast tee sheets directly from PGA Tour Media
 ## Download
 
 ➡️ Download the latest installer from the Releases page.
+**https://github.com/leehowardblair/PGATeeTimeBuilder/releases/latest**
+
+Download and run:
+
+```text
+PGA_TeeTime_Builder_Setup_vx.x.x.exe
+```
 
 ## Features
 
