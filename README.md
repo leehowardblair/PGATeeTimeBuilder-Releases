@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo_main.png" alt="PGA Tee Time Builder" width="360"></p>
+<p align="center"><img src="logo_main.png" alt="PGA Tee Time Builder" width="360"></p>
 
 # PGA Tee Time Builder
 
