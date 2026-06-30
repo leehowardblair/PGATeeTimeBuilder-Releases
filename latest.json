@@ -1,0 +1,11 @@
+{
+  "version": "1.1.1",
+  "release_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/tag/v1.1.1",
+  "notes": [
+    "Windows updater handoff is more reliable after installation.",
+    "macOS updates can replace the installed app and relaunch automatically.",
+    "Update checks use a lightweight cached manifest to avoid GitHub rate limits."
+  ],
+  "windows_installer_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.1/PGA_TeeTime_Builder_Setup_v1.1.1.exe",
+  "mac_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.1/PGA_TeeTime_Builder_macOS_v1.1.1.zip"
+}
