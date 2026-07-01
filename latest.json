@@ -1,14 +1,13 @@
 {
-  "version": "1.1.2",
-  "release_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/tag/v1.1.2",
+  "version": "1.1.3",
+  "release_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/tag/v1.1.3",
   "notes": [
-    "Windows updates now stage the installer in a persistent app-owned folder before handoff.",
-    "One signed Universal macOS package supports Intel and Apple Silicon Macs, including macOS Monterey.",
-    "Improved secure HTTPS handling no longer blocks app startup on a preliminary connection check.",
-    "The selected first-launch or Settings output folder is validated before export, with clear local save errors."
+    "Cleaner tee-sheet completion controls.",
+    "macOS can export Excel, Numbers, or both.",
+    "Issue Report ZIP now includes expanded support diagnostics."
   ],
-  "windows_installer_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.2/PGA_TeeTime_Builder_Setup_v1.1.2.exe",
-  "mac_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.2/PGA_TeeTime_Builder_macOS_v1.1.2.zip",
+  "windows_installer_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.3/PGA_TeeTime_Builder_Setup_v1.1.3.exe",
+  "mac_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.3/PGA_TeeTime_Builder_macOS_v1.1.3.zip",
   "macos_package": {
     "format": "zip",
     "universal": true,
