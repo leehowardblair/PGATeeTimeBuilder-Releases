@@ -1,11 +1,21 @@
 {
-  "version": "1.1.1",
-  "release_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/tag/v1.1.1",
+  "version": "1.1.2",
+  "release_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/tag/v1.1.2",
   "notes": [
-    "Windows updater handoff is more reliable after installation.",
-    "macOS updates can replace the installed app and relaunch automatically.",
-    "Update checks use a lightweight cached manifest to avoid GitHub rate limits."
+    "Windows updates now stage the installer in a persistent app-owned folder before handoff.",
+    "One signed Universal macOS package supports Intel and Apple Silicon Macs, including macOS Monterey.",
+    "Improved secure HTTPS handling no longer blocks app startup on a preliminary connection check.",
+    "The selected first-launch or Settings output folder is validated before export, with clear local save errors."
   ],
-  "windows_installer_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.1/PGA_TeeTime_Builder_Setup_v1.1.1.exe",
-  "mac_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.1/PGA_TeeTime_Builder_macOS_v1.1.1.zip"
+  "windows_installer_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.2/PGA_TeeTime_Builder_Setup_v1.1.2.exe",
+  "mac_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.2/PGA_TeeTime_Builder_macOS_v1.1.2.zip",
+  "macos_package": {
+    "format": "zip",
+    "universal": true,
+    "architectures": [
+      "x86_64",
+      "arm64"
+    ],
+    "minimum_macos_version": "12.0"
+  }
 }
