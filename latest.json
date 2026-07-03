@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "release_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/tag/v1.2.0",
+  "version": "1.2.1",
+  "release_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/tag/v1.2.1",
   "notes": [
     "Choose Excel, PDF, and on macOS, Numbers output files.",
     "Added print-ready PDF tee-sheet export and clickable completed-file names.",
@@ -8,8 +8,8 @@
     "Replacement prompts are limited to the AM or PM wave currently being built.",
     "Intel macOS Monterey startup compatibility is included in the Universal macOS app."
   ],
-  "windows_installer_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.2.0/PGA_TeeTime_Builder_Setup_v1.2.0.exe",
-  "mac_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.2.0/PGA_TeeTime_Builder_macOS_v1.2.0.zip",
+  "windows_installer_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.2.1/PGA_TeeTime_Builder_Setup_v1.2.1.exe",
+  "mac_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.2.1/PGA_TeeTime_Builder_macOS_v1.2.1.zip",
   "macos_package": {
     "format": "zip",
     "universal": true,
