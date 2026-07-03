@@ -1,6 +1,4 @@
-<p align="center"><img src="assets/logo_main.png" alt="PGA Tee Time Builder" width="360"></p>
-
-# PGA Tee Time Builder
+<p align="center"><img src="logo_main.png" alt="PGA Tee Time Builder" width="360"></p>
 
 **Build broadcast-ready PGA Tour tee sheets in seconds.**
 
@@ -25,7 +23,7 @@ Get the latest Windows installer from:
 - Last-build status
 - GitHub update checking
 - Issue reporting
-- Windows and macOS support (verified and signed)
+- Windows and macOS support, Silicon & Intel chips (developer notarized and signed)
 
 ## Reporting Issues
 
