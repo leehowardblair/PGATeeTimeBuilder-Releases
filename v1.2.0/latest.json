@@ -1,0 +1,21 @@
+{
+  "version": "1.2.0",
+  "release_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/tag/v1.2.0",
+  "notes": [
+    "Intel macOS Monterey startup compatibility is included in the Universal macOS app.",
+    "Choose Excel, PDF, and on macOS, Numbers output files.",
+    "Official PGA TOUR Media Field Updates can confirm named Round 1/2 substitutions.",
+    "Replacement prompts are limited to the AM or PM wave currently being built."
+  ],
+  "windows_installer_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.2.0/PGA_TeeTime_Builder_Setup_v1.2.0.exe",
+  "mac_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.2.0/PGA_TeeTime_Builder_macOS_v1.2.0.zip",
+  "macos_package": {
+    "format": "zip",
+    "universal": true,
+    "architectures": [
+      "x86_64",
+      "arm64"
+    ],
+    "minimum_macos_version": "12.0"
+  }
+}
