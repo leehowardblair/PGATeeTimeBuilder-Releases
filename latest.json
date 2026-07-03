@@ -1,13 +1,14 @@
 {
-  "version": "1.1.3",
-  "release_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/tag/v1.1.3",
+  "version": "1.1.5",
+  "release_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/tag/v1.1.5",
   "notes": [
-    "Cleaner tee-sheet completion controls.",
-    "macOS can export Excel, Numbers, or both.",
-    "Issue Report ZIP now includes expanded support diagnostics."
+    "Choose Excel, PDF, and on macOS, Numbers output files.",
+    "Added print-ready PDF tee-sheet export and clickable completed-file names.",
+    "Official PGA TOUR Media Field Updates can confirm named Round 1/2 substitutions.",
+    "Replacement prompts are limited to the AM or PM wave currently being built."
   ],
-  "windows_installer_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.3/PGA_TeeTime_Builder_Setup_v1.1.3.exe",
-  "mac_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.3/PGA_TeeTime_Builder_macOS_v1.1.3.zip",
+  "windows_installer_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.5/PGA_TeeTime_Builder_Setup_v1.1.5.exe",
+  "mac_url": "https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/releases/download/v1.1.5/PGA_TeeTime_Builder_macOS_v1.1.5.zip",
   "macos_package": {
     "format": "zip",
     "universal": true,
