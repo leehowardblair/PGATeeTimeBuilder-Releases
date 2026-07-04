@@ -18,11 +18,13 @@ Get the latest Windows installer from:
 - Group numbering persistence
 - WD score handling
 - WD Player handling
+- Amateur player handling
 - Dark Broadcast GUI
 - First-run output folder setup
 - Last-build status
 - GitHub update checking
 - Issue reporting
+- Checks for revised tee time sheets
 - Windows and macOS support, Silicon & Intel chips (developer notarized and signed)
 
 ## Reporting Issues
