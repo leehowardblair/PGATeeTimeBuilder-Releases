@@ -1,0 +1,59 @@
+# PGA Tee Time Builder v1.2.5
+
+## Release Date
+<i>August 18, 2026</i>
+
+## ✨ Highlights
+- Choose one or more finished output files: Excel, PDF, and on macOS, Numbers.
+- Added a print-ready PDF twin of the finished Sheet1 tee-sheet layout.
+- Completion window now shows PGA Tee Time Builder branding, the selected tournament logo, and clickable completed-file names.
+- Added safe Round 1/2 live-field reconciliation with a per-tournament audit trail and official PGA TOUR Media field-update support.
+
+## ⏱ New: Build Sheet With Delay
+- Added a compact delay button next to the normal Build Tee Sheet button.
+- Main Build button now gets most of the row; Delay is a small secondary action.
+- Prompts for an `HH:MM` shift and lets the operator shift tee times sooner or later.
+- Delay dialog buttons now use the app's green/blue/dark button styling and avoid overlap.
+- Delayed builds use `_DELAYED` in the output filename so normal sheets are not overwritten.
+
+
+## 🐞 Fixes
+- Polished the direct PDF tee-time underline placement and weight.
+- Removed dark Settings label highlighting in the light Settings window.
+- Standard paired PDFs use round-aware waves: Round 1 page 1 is AM; Round 2 page 1 is PM. Unresolved confirmed replacements are clearly marked UNKNOWN in red for manual correction.
+- Intel macOS Monterey startup now configures libffi before native bridge imports; Windows and native Apple Silicon retain their existing startup behavior.
+- Revised-PDF discovery and operator prompt.
+- Official field-name validation for inconsistent amateur markers.
+- Windows updater handoff fix.
+- Intel Monterey startup compatibility.
+- Settings overrides cleared on launch so no hangovers exist.
+- Sped up PDF search catalog
+
+
+## ✨ New: Open Championship R1/R2 parser
+- Added support for The Open Championship combined R1/R2 tee-time PDF.
+- Reads the Open's `Game No.`, caddie-bib/color, country, and right-side Round 2 start-time layout.
+- Preserves amateur markers as trailing `-a`.
+
+## ✨ New: U.S. Open R1/R2 parser
+- Added support for the U.S. Open combined R1/R2 tee-time PDF layout.
+- Handles side-by-side #1/#10 tee blocks, Player ID rows, Round 1 / Round 2 paired start times, and the alphabetical index printed below the tee-time table.
+- Preserves `(a)` amateur markers as trailing `-a`.
+
+## ✨ New: FedExCup Playoffs fixes/parser
+- Added support for the Playoff Events
+
+---
+
+# 📦 Installation
+
+New users can simply download and run:
+
+WINDOWS
+**`PGA_TeeTime_Builder_Setup_v1.2.5.exe`**
+
+macOS 12.0 or later
+**`PGA_TeeTime_Builder_macOS_v1.2.5.zip`**
+
+**© 2026 Lee Blair. All Rights Reserved.**
+
