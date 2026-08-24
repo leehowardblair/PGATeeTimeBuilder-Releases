@@ -1,7 +1,11 @@
+<a href="https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/blob/main/logo_header.png">
+  <img src="https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/blob/main/logo_header.png" width="150" alt="PGA Tee Time Builder logo">
+</a>
+
 # PGA Tee Time Builder v1.2.5
 
 ## Release Date
-<i>August 18, 2026</i>
+<i>August 21, 2026</i>
 
 ## ✨ Highlights
 - Choose one or more finished output files: Excel, PDF, and on macOS, Numbers.
