@@ -1,3 +1,7 @@
+<a href="https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/blob/main/logo_header.png">
+  <img src="https://github.com/leehowardblair/PGATeeTimeBuilder-Releases/blob/main/logo_header.png" width="150" alt="PGA Tee Time Builder logo">
+</a>
+
 # PGA Tee Time Builder v1.2.6
 
 ## Release Date
